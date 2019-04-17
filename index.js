@@ -1,5 +1,3 @@
-const JiraUtil = require('./lib/JiraUtil')
-
-module.exports = {
-  JiraUtil: JiraUtil
+exports.printMsg = function() {
+  console.log("This is a message from the demo package");
 }
