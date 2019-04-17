@@ -1,0 +1,22 @@
+{
+  "name": "jira-integration",
+  "version": "1.0.0",
+  "description": "Jira Utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poornima-sivanand/jira-integration.git"
+  },
+  "author": "Poornima Sivanand",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/poornima-sivanand/jira-integration/issues"
+  },
+  "homepage": "https://github.com/poornima-sivanand/jira-integration#readme",
+  "dependencies": {
+     "botkit": "poornima-sivanand/jira-integration#master",
+  }
+}
