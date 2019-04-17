@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/poornima-sivanand/jira-integration#readme",
   "dependencies": {
-     "botkit": "poornima-sivanand/jira-integration#master",
+     "botkit": "poornima-sivanand/jira-integration#master"
   }
 }
